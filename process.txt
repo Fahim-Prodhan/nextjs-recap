@@ -1,0 +1,1 @@
+1. Install NextJs, DaisyUi, HeroUi, betterAuth, mongodb, mongo-adapter
